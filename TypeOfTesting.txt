@@ -17,3 +17,18 @@ subsystems that have been created by multiple programmers or programming teams.
 Integration testing is conducted by developer or tester
 
 It is a blackbox Ans: WhiteBox
+
+
+System Testing 
+
+What is system Testing?
+System Testing is conducted by ______________
+It is type of (blackbox/whitebox testing)
+
+
+
+Acceptance Testing
+
+What is acceptance Testing?
+Acceptance Testing is conducted by ______________
+It is type of (blackbox/whitebox testing)
