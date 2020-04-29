@@ -1,0 +1,19 @@
+Unit Testing
+
+What is unit testing? execution or a complete class, routine or small program that has been
+written by a single or a team of programmers which is tested in isolation from the more complete system.
+
+Unit testing is conducted by tester or developer
+
+It is a whitebox
+
+
+
+Integration Testing
+
+What is integration testing? Combined execution of two or more classes, packages, components, or
+subsystems that have been created by multiple programmers or programming teams.
+
+Integration testing is conducted by developer or tester
+
+It is a blackbox
