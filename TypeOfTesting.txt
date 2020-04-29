@@ -3,9 +3,9 @@ Unit Testing
 What is unit testing? execution or a complete class, routine or small program that has been
 written by a single or a team of programmers which is tested in isolation from the more complete system.
 
-Unit testing is conducted by tester or developer
+Unit testing is conducted by tester or developer Ans: developer
 
-It is a whitebox
+It is a whitebox Ans: WhiteBox
 
 
 
@@ -16,4 +16,4 @@ subsystems that have been created by multiple programmers or programming teams.
 
 Integration testing is conducted by developer or tester
 
-It is a blackbox
+It is a blackbox Ans: WhiteBox
