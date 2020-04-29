@@ -21,14 +21,14 @@ It is a blackbox Ans: WhiteBox
 
 System Testing 
 
-What is system Testing?
-System Testing is conducted by ______________
-It is type of (blackbox/whitebox testing)
+What is system Testing? Ans: Software
+System Testing is conducted by ____Programmer__________
+It is type of (blackbox/whitebox testing) Ans: WhiteBox
 
 
 
 Acceptance Testing
 
-What is acceptance Testing?
-Acceptance Testing is conducted by ______________
-It is type of (blackbox/whitebox testing)
+What is acceptance Testing? Ans: After programmer done with their testing they need the end user test out their game(Beta Test)
+Acceptance Testing is conducted by ______End User________
+It is type of (blackbox/whitebox testing) Ans: BlackBox
